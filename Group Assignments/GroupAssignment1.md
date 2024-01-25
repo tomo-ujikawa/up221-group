@@ -1,13 +1,12 @@
 # GroupAssignment1: Project Proposal
-**Group Member**: Alain Jabbour, Simon Han, Tomohiro Ujikawa, Xinyi Cao
-
+**Group Member**: Alain Jabbour, Simon Han, Tomohiro Ujikawa, Xinyi Cao  
 **Group Repository**: https://github.com/tomo-ujikawa/up221-group.git
 
 ## Research Topic
 - What are the population characteristics of transit corridor households vs transit desert households in LA county?
 - In LA County, which areas have the greatest need and potential for TOD development?
 - How walkable are TOD neighboring areas compared to those of non-TODs?
-- How has WFH impacted TOD residents? 
+- How has WFH impacted TOD residents?
 
 ## Why This Matters
 Los Angeles (LA) has the second largest population in the United States, but its transportation infrastructure is automobile-oriented, and its public transportation infrastructure falls behind other cities. With the growing need to reduce greenhouse gas emissions and build a sustainable city, the pressure to develop a public transportation network has never been greater. In this context, TOD (Transit-Oriented Development), based on a rail and BRT (Bus Rapid Transit) network, has been promoted in LA. While public investment budgets are limited due to austerity policies, these infrastructure developments need significant investment, prioritization, and political decision-making. We believe that analyzing the characteristics of existing rail and BRT transit corridor areas and other areas with high potential and need for TOD development is essential for future TOD planning.
@@ -20,10 +19,8 @@ We define “TOD corridor” as within half-mile of a rail/BRT station.
 ![alt text](https://github.com/tomo-ujikawa/up221-group/blob/34d15abe205467643ff1be3e838979220a03f9e0/images/Intended%20Analysis%20and%20Visualizations.jpg)
 
 ## Data Sources
-[https://map.myneighborhooddata.org/]
-
-[https://data.lacity.org/browse]
-
+[https://map.myneighborhooddata.org/]  
+[https://data.lacity.org/browse]  
 [GeoHub](https://geohub.lacity.org/)
 
 ## Conclusion
