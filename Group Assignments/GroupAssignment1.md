@@ -1,7 +1,7 @@
 # GroupAssignment1: Project Proposal
 **Group Member**: Alain Jabbour, Simon Han, Tomohiro Ujikawa, Xinyi Cao
 
-**Group Repository**
+**Group Repository**: https://github.com/tomo-ujikawa/up221-group.git
 
 ## Research Topic
 - What are the population characteristics of transit corridor households vs transit desert households in LA county?
@@ -16,8 +16,8 @@ Los Angeles (LA) has the second largest population in the United States, but its
 **LA County**: The transportation network in LA is formed centered on the city of LA, but the city of LA's municipal boundaries are complex and do not coincide with the transportation network, so we believe that LA County is more appropriate in scope for analyzing the transportation network. Even within a single county, LA County, each neighborhood's social composition and built environment characteristics are diverse. Prioritization is necessary when considering the development of transportation infrastructure, and analysis of geographical distribution and characteristics of population and built environment is essential in developing transportation infrastructure plans. Since the planning for the transportation infrastructure is created over several decades, it is crucial not only to understand the current characteristics but also to predict the future. Although forecasting the future is not within the scope of our research, we believe that understanding past trends of change over time will contribute to this.
 
 ## Intended Analysis and Visualizations
-We will define “TOD corridor” as within half-mile of a rail/BRT station.
-
+We define “TOD corridor” as within half-mile of a rail/BRT station.
+![alt text](https://github.com/tomo-ujikawa/up221-group/blob/34d15abe205467643ff1be3e838979220a03f9e0/images/Intended%20Analysis%20and%20Visualizations.jpg)
 
 ## Data Sources
 [https://map.myneighborhooddata.org/]
