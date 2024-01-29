@@ -15,7 +15,7 @@ Los Angeles (LA) has the second largest population in the United States, but its
 
 ## Intended Analysis and Visualizations
 We define “TOD corridor” as within half-mile of a rail/BRT station.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/tomo-ujikawa/up221-group/blob/main/images/Intended%20Analysis%20and%20Visualizations.png)
 
 ## Data Sources
 We will use the age distribution, car ownership, median income, household size and demography data from this data source titled [Neighborhood Data for Social Change](https://map.myneighborhooddata.org/). The data are compiled by census tracts, and this dataset includes data from 2010 to 2021.  
