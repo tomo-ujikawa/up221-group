@@ -5,8 +5,7 @@
 ## Research Topic
 - What are the population characteristics of transit corridor households vs transit desert households in LA county?
 - In LA County, which areas have the greatest need and potential for TOD development?
-- How walkable are TOD neighboring areas compared to those of non-TODs?
-- How has WFH impacted TOD residents?
+- How has WFH impacted TOD residents? 
 
 ## Why This Matters
 Los Angeles (LA) has the second largest population in the United States, but its transportation infrastructure is automobile-oriented, and its public transportation infrastructure falls behind other cities. With the growing need to reduce greenhouse gas emissions and build a sustainable city, the pressure to develop a public transportation network has never been greater. In this context, TOD (Transit-Oriented Development), based on a rail and BRT (Bus Rapid Transit) network, has been promoted in LA. While public investment budgets are limited due to austerity policies, these infrastructure developments need significant investment, prioritization, and political decision-making. We believe that analyzing the characteristics of existing rail and BRT transit corridor areas and other areas with high potential and need for TOD development is essential for future TOD planning.
@@ -16,12 +15,12 @@ Los Angeles (LA) has the second largest population in the United States, but its
 
 ## Intended Analysis and Visualizations
 We define “TOD corridor” as within half-mile of a rail/BRT station.
-![alt text](https://github.com/tomo-ujikawa/up221-group/blob/34d15abe205467643ff1be3e838979220a03f9e0/images/Intended%20Analysis%20and%20Visualizations.jpg)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 ## Data Sources
-[https://map.myneighborhooddata.org/]  
-[https://data.lacity.org/browse]  
-[GeoHub](https://geohub.lacity.org/)
+We will use the age distribution, car ownership, median income, household size and demography data from this data source titled [Neighborhood Data for Social Change](https://map.myneighborhooddata.org/). The data are compiled by census tracts, and this dataset includes data from 2010 to 2021.  
+We will use the city map and geographic data from this data source of [LA City](https://data.lacity.org/browse).  
+We will use the rail & BRT line stop data, 2022 median income (census tract), and 2023 household percentage without vehicles (census tract) from this data source titled [GeoHub](https://geohub.lacity.org/).
 
 ## Conclusion
 By visualizing the social and demographic characteristics and geographic distribution of TOD and non-TOD corridors within LA County, we expect to be able to identify the development needs and feasible areas for TOD in LA.
