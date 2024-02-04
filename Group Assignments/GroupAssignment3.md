@@ -1,5 +1,5 @@
 **Group name**: Transit Corridors  
-**Group members** Alain Jabbour, Simon Han, Tomohiro Ujikawa, Xinyi Cao
+**Group members** Alain Jabbour, Simon Han, Tomohiro Ujikawa, Xinyi Cao  
 **Project title and link to proposal Title:** LA County TOD Assessment  
 **Proposal link:** https://github.com/tomo-ujikawa/up221-group/blob/main/Group%20Assignments/GroupAssignment1.md
 
