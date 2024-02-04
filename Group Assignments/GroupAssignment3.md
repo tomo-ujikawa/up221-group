@@ -4,10 +4,11 @@
 **Proposal link:** https://github.com/tomo-ujikawa/up221-group/blob/main/Group%20Assignments/GroupAssignment1.md
 
 **Roles:**  
-Tomo: manager: coordinating submissions and meetings  
-Simon: LA transportation specialist: leading overall framing of the project  
-Xinyi: data analyst: leading data analysis approach and booking meeting rooms  
 Alain: international transportation consultant: specialized in visualization and creating attractive maps  
+Simon: LA transportation specialist: leading overall framing of the project  
+Tomo: manager: coordinating submissions and meetings  
+Xinyi: data analyst: leading data analysis approach and booking meeting rooms  
+ 
 
 **Status update:** GREAT!  
 What is working: Group spirit. All members share similar vibes and goals for this course and work collaboratively.  
